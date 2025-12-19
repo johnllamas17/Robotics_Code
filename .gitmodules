@@ -1,0 +1,3 @@
+[submodule "gamecock-robotics"]
+	path = gamecock-robotics
+	url = https://github.com/GamecockRobotics/CocksAndBalls.git
